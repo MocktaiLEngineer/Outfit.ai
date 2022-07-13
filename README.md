@@ -1,4 +1,6 @@
 # Outfit.ai
+I'd suggest you read the Outfit.ai PDF file for every single detail about this project.
+
 This section assumes that the reader has downloaded the code/cloned this repository. This application requires Redis to serve as a message broker, and this demands the need for a Subsystem for Linux.
 
 For windows users, WSL (Windows Subsystem for Linux) must be enabled and installed.
